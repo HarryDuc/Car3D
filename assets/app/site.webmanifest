@@ -1,6 +1,6 @@
 {
-	"name": "GEMINI - A WebGL Car Demo by Lusion",
-	"short_name": "GEMINI - A WebGL Car Demo by Lusion",
+	"name": "GEMINI - A WebGL Car Demo by MinhDuc",
+	"short_name": "GEMINI - A WebGL Car Demo by MinhDuc",
 	"icons": [
 		{
 			"src": "/assets/app/android-chrome-192x192.png",
@@ -15,6 +15,5 @@
 	],
 	"theme_color": "#000000",
 	"background_color": "#000000",
-	"start_url": "https://exp-gemini.lusion.co/",
 	"display": "standalone"
 }
